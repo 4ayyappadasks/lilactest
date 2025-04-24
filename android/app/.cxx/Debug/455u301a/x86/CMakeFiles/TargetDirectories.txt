@@ -1,0 +1,2 @@
+C:/Users/ayyap/StudioProjects/MachineTestLilac/android/app/.cxx/Debug/455u301a/x86/CMakeFiles/edit_cache.dir
+C:/Users/ayyap/StudioProjects/MachineTestLilac/android/app/.cxx/Debug/455u301a/x86/CMakeFiles/rebuild_cache.dir
