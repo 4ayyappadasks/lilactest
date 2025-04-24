@@ -1,0 +1,1 @@
+String BASEURL = "https://test.myfliqapp.com/api/v1";
